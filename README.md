@@ -1,0 +1,1 @@
+Learning Helix Editor? The problem I faced was the new muscle-memory required, and I wanted to be able to very quickly look up the command I needed without breaking flow. I like dense cheat-sheets for this, so I made one. Sharing it here in the hope others will find it useful too.
